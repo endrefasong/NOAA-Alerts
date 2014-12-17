@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Endre Mathistad",
+    "longName": "NOAA Alerts on Pebble",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/noaa_28.png",
+                "menuIcon": true,
+                "name": "IMAGES_NOAA_28_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/noaa_128.png",
+                "name": "IMAGES_NOAA_128_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "NOAA-Alerts",
+    "uuid": "711d2497-9ea8-499a-9c39-dd7a801e70d6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
